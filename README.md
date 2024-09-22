@@ -26,7 +26,7 @@ MySQL Database
 IntelliJ IDEA (for backend development)
 Visual Studio Code (for frontend development)
 
-onfigure Database Connection:
+Configure Database Connection:
 Open the src/main/resources/application.properties file.
 Update the following properties for your MySQL setup:
 Configure Database Connection**:
